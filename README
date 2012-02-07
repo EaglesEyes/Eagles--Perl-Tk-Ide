@@ -1,12 +1,16 @@
-**********************************************************************
-**						Eagles's Perl Tk IDE						**
-**********************************************************************
-**	AUTHOR: Nicolas PILLON											**
-**	@Mail:	nicolas.pillon@yamail.com								**
-**********************************************************************
-** 	Description:													**
-**			A simple IDE to develop graphic interface				**
-**			with Perl Tk library									**
-**********************************************************************
+************************************************************************
+**						Eagles's Perl Tk IDE		     	**
+************************************************************************
+**	AUTHOR: Nicolas PILLON									**
+**	@Mail:	nicolas.pillon@ymail.com						     **
+************************************************************************
+** 	Description:											**
+**			A simple IDE to develop graphic interface			**
+**			with Perl Tk library							**
+**                                                                    **
+**             All Perl Tk object is a plugins of the IDE             **
+************************************************************************
+
 
 06/02/2012: NPn => Create repository
+                   Start project 
